@@ -1,4 +1,5 @@
 Chat App Project</br>
+
 This is a real-time chat application built using Spring Boot (for the backend), </br>React JS (for the frontend), and MongoDB (for the database). The application allows users to join chat rooms and send messages in
 real-time using WebSockets.</br>
 
